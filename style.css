@@ -1,0 +1,17 @@
+ul{
+    list-style-type: none;
+}
+input{
+    margin-right: 5px;
+}
+
+header{
+    background-color: gray;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+    position: fixed;
+    width: 100vw;
+    bottom: 0;
+}
